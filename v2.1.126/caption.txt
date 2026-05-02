@@ -1,28 +1,17 @@
-🐯 Claude Code v2.1.126 公式 changelog まとめ（2026年4月26日〜5月1日）
+Claude Code v2.1.126 がリリース！全32項目の大型アップデート🔥
 
-v2.1.121 → v2.1.126 の正式リリースで、新機能 10 / セキュリティ修正 1 / バグ修正 21、合計 32項目！カルーセルで全部紹介してます👉
+今回の注目ポイントをまとめました👇
 
-主な見どころ：
+✅ 新機能: /model ピッカー強化、project purge コマンド追加、OAuth ターミナル対応
+✅ Windows: PowerShell 7 自動検出＆プライマリシェル化、CJK文字化け修正
+✅ セキュリティ: managed settings 修正、OAuth タイムアウト＆トークン競合修正
+✅ 安定性: 大画像貼り付け・Mac スリープ復帰・Agent SDK ハングなど多数修正
+✅ MCP/Plugin: コネクタ・deferred tools・プランモードツールの修正
+✅ UI/UX: Ctrl+L・Remote Control・PowerShell ツールの修正
 
-1️⃣ claude project purge 追加
-プロジェクトの全状態（履歴・タスク・ファイル変更履歴・設定）を一括削除する新サブコマンド。--dry-run / --all 対応で安心。
+2026年4月30日リリースの v2.1.126 は、Windows対応とOAuth周りが特に充実。開発体験がさらに向上しています💪
 
-2️⃣ 危険スキップで .claude/ 等も書き込みOK
---dangerously-skip-permissions が .claude/ .git/ .vscode/ shell config 等の書き込みも素通り。catastrophic 削除コマンドだけは安全網が残る。
+保存📌してあとで見返してね！
+フォローで最新アップデート情報をお届けします🔔
 
-3️⃣ Windows / PowerShell 強化
-Microsoft Store / MSI / .NET global tool 経由の PowerShell 7 検出、PowerShell プライマリシェル化、clipboard EDR 露出修正、bare `--` 誤解釈修正。
-
-4️⃣ OAuth 改善 4連発
-WSL2 / SSH / コンテナで OAuth コードペースト対応、low-speed/IPv6/proxy 環境の login timeout 修正、refresh token クリア race 修正、組織 OAuth 不可エラー誘導改善。
-
-5️⃣ セキュリティ修正
-allowManagedDomainsOnly / allowManagedReadPathsOnly が高優先度 managed-settings ソースで無視される問題を修正。
-
-ほかにも、画像 2000px 超ペースト破壊修正、Mac sleep 復帰時 Stream timeout 修正、CJK 文字化け修正、Ctrl+L クリア修正、Agent SDK 並列ツール hang 修正など、嬉しいバグ潰しが多数！
-
-📌 保存して後で読み返してね
-🐯 フォローよろしく〜
-🔗 詳細はプロフィールのリンクから
-
-#ClaudeCode #Anthropic #AI #生成AI #エンジニア #プログラミング #開発ツール #AIコーディング #アップデート情報 #テック系 #エンジニアライフ #開発効率化 #AIエージェント #コーディング #ソフトウェア開発 #DX推進 #技術ブログ #AgentSDK #Claude #PowerShell
+#ClaudeCode #Claude #AI #AIコーディング #プログラミング #エンジニア #開発ツール #アップデート #テック #AI開発 #Anthropic #コーディング #Windows #OAuth #MCP #PowerShell #開発者 #エンジニアライフ #プログラマー #技術情報
