@@ -1,0 +1,19 @@
+Claude Code v2.1.128 がリリース！全37項目の大型アップデートをまとめました
+
+主な変更点：
+- /color がランダム色に対応、--plugin-dir が .zip アーカイブ対応
+- --channels がコンソール認証（APIキー）でも利用可能に
+- MCP サーバーの /mcp ツール数表示、workspace 予約名、再接続時の簡素表示
+- EnterWorktree がローカルHEADからブランチ作成に修正
+- Auto mode のエラーヒント追加（リトライ・/compact・--debug）
+- サブプロセスの OTEL_* 環境変数継承を停止
+- プラグイン関連の修正多数（/plugin update、installed_plugins.json）
+- UI/UX改善：フォーカスモード、画像D&D、/config タブ、コピー時空白
+- ターミナル対応：Kitty通知、OSC 8リンク、進捗インジケーター、vim Space
+- 安定性向上：大量入力クラッシュ、1Mコンテキスト誤ブロック、サブエージェントキャッシュ最適化
+- Bedrock モデル解決、/fast 3P対応、/rename セッション修正
+
+保存して後から見返してね！
+詳しくはプロフィールリンクから
+
+#ClaudeCode #Claude #Anthropic #AI #AIツール #プログラミング #エンジニア #開発者 #コーディング #AIコーディング #MCP #プラグイン #ターミナル #CLI #開発効率化 #テック #アップデート #v2_1_128 #AIエージェント #生成AI
