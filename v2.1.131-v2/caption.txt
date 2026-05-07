@@ -1,0 +1,15 @@
+🐯 Claude Code v2.1.131 アップデートまとめ！
+
+2026年5月6日リリース、今回は全2項目の修正アップデート。
+派手な新機能ではないけど、Windowsや認証まわりのつまずきを減らす安定化版です。
+
+・🪟 Windows環境でVS Code拡張機能が起動しない問題を修正
+・🧩 bundled SDK内のcreateRequire polyfill由来の不具合に対応
+・🛠️ ハードコードされたビルドパスが原因の拡張機能アクティベーション失敗を改善
+・🔐 Mantle endpoint認証でx-api-keyヘッダー不足により失敗する問題を修正
+
+保存してあとで見返せるように📌
+Claude Code最新情報を追うならフォローしてね🐯
+詳しい解説や関連ツールはプロフィールリンクから！
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #プログラミング #エンジニア #開発者 #VSCode #Windows #DevTools #ソフトウェア開発 #コード生成 #自動化 #アップデート #Changelog #TechNews #DeveloperTools
