@@ -1,0 +1,20 @@
+🐯Claude Code v2.1.132 アップデートまとめ！
+
+2026年5月6日リリースの最新アップデート。
+今回は全28項目で、ターミナル体験・再開処理・MCPまわりの安定性が中心です。
+
+🧩 Bash subprocessにCLAUDE_CODE_SESSION_IDが追加。hooksとの連携がより扱いやすく
+
+🖥️ フルスクリーン描画を無効化できる環境変数が追加。ネイティブのスクロールバック派にうれしい改善
+
+🛠️ SIGINTやSSH切断、絵文字を含む破損セッションなど、resume周りの不具合を複数修正
+
+⌨️ スラッシュコマンド、貼り付け、IME・絵文字・アクセント文字入力の安定性が向上
+
+🔌 MCPサーバーのメモリ増加やtools取得失敗表示、認証エラー表示も改善
+
+あとで見返せるように保存してね。
+Claude Codeの更新を追うならフォロー。
+詳しい解説はプロフィールリンクから。
+
+#ClaudeCode #Claude #AI #AIコーディング #生成AI #プログラミング #開発者 #エンジニア #コーディング #ターミナル #MCP #LLM #Anthropic #ClaudeAI #DevTools #DeveloperTools #VSCode #Cursor #Bedrock #VertexAI
