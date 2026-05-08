@@ -1,0 +1,20 @@
+🐯Claude Code v2.1.133 アップデートまとめ！
+
+2026年5月7日リリースの最新アップデート。
+今回は設定追加・安定性改善・各種不具合修正など全17項目です。
+
+🌿 worktree.baseRef が追加され、worktree 作成時の起点を origin/default かローカル HEAD から選択可能に
+
+🛠 Linux/WSL 向けに bubblewrap / socat のカスタムパス指定が可能に
+
+⚡ Hooks や Bash コマンドで現在の effort level を参照できるように改善
+
+🧠 メモリ圧迫時にバックグラウンド worker を解放し、メモリ使用を最適化
+
+🔐 認証・MCP OAuth・Remote Control・並列セッション周りの不具合を多数修正
+
+あとで見返せるように保存しておくのがおすすめです。
+Claude Code / AI開発のアップデートはフォローしてチェック。
+詳しい解説や関連リンクはプロフィールからどうぞ。
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #開発効率化 #プログラミング #エンジニア #ソフトウェア開発 #DeveloperTools #DevTools #CLI #VSCode #MCP #AIエージェント #自動化 #TechNews #アップデート
