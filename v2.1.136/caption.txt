@@ -1,0 +1,16 @@
+🐯 Claude Code v2.1.136 アップデートまとめ！
+
+2026年5月8日リリース、全52項目の大型メンテナンス版。
+MCP、認証、IDE連携、ターミナル表示まわりの安定性がかなり強化されています。
+
+🔐 OAuthトークン更新や複数MCPサーバー利用時の再認証ループを修正
+🧩 VS Code・JetBrains・Agent SDKでMCP設定が/clear後に消える問題を改善
+📝 Plan modeで許可ルールがある場合でもファイル書き込みを正しくブロック
+🖥️ WSL2でWindowsクリップボードからの画像貼り付けに対応
+🎨 スラッシュコマンドダイアログやCJK端末表示、コードブロック色ズレを改善
+
+あとで見返せるように保存しておくのがおすすめです。
+Claude Codeの更新情報を追いたい方はフォローしてください。
+詳しいAI開発ナレッジはプロフィールリンクからどうぞ。
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #開発者向け #プログラミング #エンジニア #ソフトウェア開発 #MCP #VSCode #JetBrains #Terminal #WSL2 #OAuth #DevTools #CodingAgent #AIツール #TechNews
