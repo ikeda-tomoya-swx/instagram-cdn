@@ -1,0 +1,17 @@
+🐯Claude Code v2.1.137 アップデートまとめ！
+
+2026年5月9日リリース。
+今回の更新は全1項目で、VSCode拡張の安定性改善が中心です。
+
+🔧 VSCode拡張がWindows環境で起動しない問題を修正
+🪟 WindowsユーザーがClaude CodeをVSCode内で使い始めやすく改善
+🚀 拡張機能のアクティベーション失敗による作業停止リスクを軽減
+🧩 エディタ連携まわりの信頼性が向上し、日々のAIコーディング体験がより安定
+
+小さな修正でも、普段使う開発環境に直結するアップデートは要チェックです。
+
+保存してあとで見返せるようにしておきましょう
+最新AIコーディング情報をフォローでチェック
+詳しいアップデートはプロフィールリンクから
+
+#ClaudeCode #Claude #AI #AIコーディング #生成AI #プログラミング #開発者 #エンジニア #VSCode #Windows #アップデート #Changelog #Anthropic #AIAgent #コード生成 #DeveloperTools #TechNews #SoftwareDevelopment #Coding #DX
