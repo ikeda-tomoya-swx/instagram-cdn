@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.138 アップデートまとめ！
+
+2026年5月9日リリースの Claude Code 最新版。
+今回は全1項目、内部修正が中心のメンテナンスアップデートです。
+
+🔧 Internal fixes により、表からは見えにくい不具合や内部処理を調整
+
+🧱 大きな機能追加ではなく、日々の開発体験を下支えする安定化がメイン
+
+⚙️ Claude Code の継続的な改善として、細かな品質向上が入ったバージョン
+
+🧪 目立つUI変更や新機能よりも、次のアップデートに向けた土台づくりの意味合いが強め
+
+📌 あとで見返せるように保存しておくのがおすすめ
+
+✅ Claude Code / AIコーディングの更新情報を追うならフォロー
+
+🔗 詳細や過去アップデートはプロフィールリンクからチェック
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #プログラミング #開発者 #エンジニア #ソフトウェア開発 #DevTools #DeveloperTools #アップデート情報 #Changelog #TechNews #AIDevelopment #自動化 #開発効率化 #VibeCoding
