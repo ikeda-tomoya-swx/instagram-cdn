@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.140 アップデートまとめ！
+
+2026年5月12日リリースの v2.1.140。
+今回は安定性・設定まわり・プラグイン体験を中心に、全13項目の改善と修正が入りました。
+
+🤖 Agent tool の subagent_type 判定が改善。大文字小文字や区切り文字の違いを吸収し、指定ミスに強くなりました。
+
+🛠️ /goal が特定設定で止まったように見える問題を修正。無限インジケーターではなく、明確なメッセージが表示されます。
+
+⚙️ symlink された設定ファイルの hot-reload や ConfigChange hooks の誤発火を修正。
+
+🌐 claude --bg や background service 起動、managed settings の 401 リトライなど、バックグラウンド処理の信頼性が向上。
+
+🔌 plugin.json 設定により標準フォルダが無視される場合、/doctor や plugin list で警告されるようになりました。
+
+保存してあとで見返せるように📌
+Claude Code 最新情報をフォローでチェック👀
+プロフィールリンクから関連まとめもどうぞ🔗
+
+#ClaudeCode #Claude #AI #AIコーディング #生成AI #CodingAI #開発者向け #プログラミング #エンジニア #DeveloperTools #Anthropic #LLM #AI開発 #コード生成 #TechNews #アップデート情報 #DevTools #自動化 #プラグイン #Windows開発
