@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.141 アップデートまとめ！
+
+2026年5月13日にリリースされた最新版。
+今回は全61項目の改善・修正が入り、エージェント運用、権限管理、プラグイン、MCP、Windows/VSCode周りまで幅広く安定性が強化されています。
+
+🔔 hooksから通知・ウィンドウタイトル・ベルを出せるterminalSequenceが追加
+
+🧩 GitHub SSHキーがない環境向けに、プラグイン取得をHTTPS優先にできる設定が追加
+
+🧠 Rewindメニューに「ここまで要約」が追加され、古い文脈を圧縮しつつ直近の会話を保持可能に
+
+🛠️ バックグラウンドエージェントやclaude agents周りの状態表示・完了判定・起動失敗時の挙動を改善
+
+🔐 権限ダイアログ、MCP接続、Bedrock/Vertex/Foundry、Windows、VSCode音声入力など多数の不具合を修正
+
+保存してアップデート確認用にどうぞ
+フォローしてAI開発ツールの最新情報をチェック
+詳しくはプロフィールリンクから
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #開発ツール #エンジニア #プログラミング #ソフトウェア開発 #DevTools #DeveloperTools #VSCode #MCP #AIエージェント #自動化 #技術アップデート #TechNews #ClaudeAI
