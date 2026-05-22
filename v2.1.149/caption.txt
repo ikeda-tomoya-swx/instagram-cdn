@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.149 アップデートまとめ！
+
+2026年5月22日リリースの最新アップデート。
+今回は全26項目で、使用量の可視化、操作性改善、権限まわりの修正が中心です。
+
+📊 /usageでskills・subagents・plugins・MCPサーバー別の使用量内訳を確認可能に
+
+⌨️ /diff詳細ビューがキーボード操作に対応。矢印、j/k、PgUp/PgDnなどで移動しやすく
+
+✅ Markdown出力でGFMのタスクリストチェックボックスをそのまま表示
+
+🔐 PowerShellやgit worktree関連の権限・サンドボックス処理を複数修正
+
+🛠️ /ultraplan、Ctrl+O、/insights、/feedbackなど長時間作業で効く細かな不具合も改善
+
+あとで見返せるように保存してね
+Claude Code最新情報を追うならフォロー
+詳しい解説はプロフィールリンクから
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #コーディング #開発者 #プログラミング #エンジニア #ソフトウェア開発 #DevTools #MCP #LLM #AIエージェント #自動化 #テックニュース #アップデート情報 #DeveloperTools #TechTips
