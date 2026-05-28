@@ -1,0 +1,20 @@
+🐯Claude Code v2.1.153 アップデートまとめ！
+
+2026年5月27日リリースの最新版。
+全36項目の改善で、更新まわり・MCP・背景セッション・Windows/macOS対応がかなり安定しました。
+
+🚀 Git/GitHubプラグインにskipLfsが追加され、Git LFSをスキップしてclone/update可能に
+
+🩺 npmグローバル版の自動更新不可を通知し、/doctorで前回更新結果や修正方法を確認可能に
+
+🤖 claude agentsの補完が強化され、スラッシュコマンドや同梱スキルも候補に表示
+
+🛠 MCPまわりの認証通知、再接続ループ、strict設定、サブエージェント挙動を多数修正
+
+💻 背景セッション、Windowsインストーラー、VS Code終了時、/model既定保存など実運用の不具合を改善
+
+あとで見返せるように保存してね
+Claude Code最新情報を追うならフォロー
+詳しい解説はプロフィールリンクから
+
+#ClaudeCode #Claude #AI #AIコーディング #生成AI #プログラミング #開発者 #エンジニア #AI開発 #CodingAI #LLM #Anthropic #TechNews #DeveloperTools #CLI #MCP #VSCode #GitHub #自動化 #AIニュース
