@@ -1,0 +1,16 @@
+🐯 Claude Code v2.1.160 アップデートまとめ！
+
+2026年6月1日リリースの最新版。
+今回は安全性・バックグラウンドセッション・Windows/WSLまわりを中心に、全27項目の改善が入っています。
+
+🔐 シェル起動ファイルや実行権限につながる設定ファイルへの書き込み前に確認プロンプトを追加
+🛠 grepで確認した単一ファイルは、そのままEdit可能に。編集フローがよりスムーズに
+🧵 background session / agents の履歴消失・再実行・socket missing などを修正
+🪟 WSLのコピー、Windows端末のキー入力・リンク・削除まわりの不具合を改善
+⚡ auto mode判定や最近非アクティブだったagent起動の待ち時間を短縮
+
+保存して後で見返せるようにしておくのがおすすめです。
+Claude Codeの更新情報を追うならフォローしてください。
+詳しい解説や関連リンクはプロフィールからどうぞ。
+
+#ClaudeCode #Claude #Anthropic #AI #AIコーディング #生成AI #CodingAI #プログラミング #開発効率化 #エンジニア #ソフトウェア開発 #DeveloperTools #DevTools #ターミナル #CLI #AIエージェント #自動化 #Windows #WSL #TechNews
