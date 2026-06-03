@@ -1,0 +1,20 @@
+🐯Claude Code v2.1.162 アップデートまとめ！
+
+2026年6月3日リリースの最新アップデート。
+今回は全28項目で、agents、権限まわり、起動体験、MCP/LSPなどの安定性が大きく改善されています。
+
+🔎 claude agents --json に waitingFor が追加され、待機中セッションが何で止まっているか把握しやすく
+
+🛠️ Grep/Glob の明示指定、Windowsパス権限、Read deny と検索結果の扱いなどツール権限まわりを改善
+
+⚡ 読み取り専用configでの起動ハング、Esc割り込み、WebFetch許可ルールなど実運用で困る不具合を修正
+
+🧩 MCPタイムアウト、LSP workspaceSymbol、絵文字を含む文字列切り詰め時のAPI 400も改善
+
+🖥️ Remote Controlの常時フッター表示、スラッシュコマンド補完、起動通知の整理でUIも扱いやすく
+
+あとで見返せるように保存しておくと便利です。
+Claude Codeの更新情報を追いたい方はフォローしてください。
+詳しい解説や関連リンクはプロフィールからどうぞ。
+
+#ClaudeCode #Claude #Anthropic #AI #AIコーディング #CodingAI #生成AI #LLM #開発効率化 #プログラミング #エンジニア #ソフトウェア開発 #開発ツール #MCP #LSP #AIエージェント #CLI #DevTools #TechNews #アップデート
