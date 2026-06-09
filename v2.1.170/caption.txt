@@ -1,0 +1,16 @@
+🐯Claude Code v2.1.170 アップデートまとめ！
+
+2026年6月9日リリース。
+今回の更新は全2項目。新モデル追加とセッション保存まわりの修正が中心です。
+
+🧠 Claude Fable 5 が登場。一般利用向けに安全性を整えた Mythos-class モデルとして利用可能に
+🚀 Fable 5 は、これまで一般提供された Claude モデルの中でも最上位級の性能に
+🔄 Claude Code を v2.1.170 にアップデートすると Fable 5 へアクセス可能
+💾 VS Code 統合ターミナル起動時に、セッションの transcript が保存されない問題を修正
+🛠 --resume にセッションが表示されないケースも改善
+
+あとで見返せるように保存してね
+Claude Code 最新情報をフォローでチェック
+詳しくはプロフィールリンクから
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #AICoding #CodingAI #開発者向け #エンジニア #プログラミング #VSCode #ターミナル #アップデート情報 #LLM #AIツール #開発効率化 #ソフトウェア開発 #TechNews #DeveloperTools
