@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.172 アップデートまとめ！
+
+2026年6月10日リリースの最新アップデート。
+今回は全30項目、Sub-agents・Bedrock・Plugin・モデル制御・安定性改善まで幅広く強化されています。
+
+🧠 Sub-agentsがさらに進化。最大5階層まで、サブエージェントが自分のサブエージェントを起動可能に
+
+🔎 /plugin にマーケットプレイス検索バーが追加。必要なプラグインを探しやすく
+
+☁️ Amazon Bedrockのリージョン検出がAWS SDK準拠に。/statusで参照元も確認可能
+
+🛠️ 1M context、画像処理、background agents、モデル選択まわりの詰まりや表示不具合を多数修正
+
+⚡ 長い会話や並列Sub-agents実行時のパフォーマンスとアイドルCPU使用率も改善
+
+保存してあとで見返せるように！
+Claude Code情報を追いたい人はフォロー！
+詳しい解説はプロフィールリンクから！
+
+#ClaudeCode #Claude #AI #AIコーディング #生成AI #プログラミング #開発者 #エンジニア #Coding #AIAgent #LLM #Anthropic #DevTools #VSCode #Bedrock #MCP #自動化 #ソフトウェア開発 #TechNews #アップデート
