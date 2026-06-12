@@ -1,0 +1,16 @@
+🐯Claude Code v2.1.174 アップデートまとめ！
+
+2026年6月11日リリースの最新アップデート。
+今回は全13項目で、モデル選択・利用状況表示・バックグラウンド処理まわりの改善が中心です。
+
+🧠 /model ピッカーの表示不具合を修正。Default の解決先や Sonnet 固定時のラベルがより正確に
+☁️ Bedrock GovCloud の推論プロファイル判定を修正し、派生モデルIDの400エラーを改善
+⚙️ バックグラウンドセッションが別セッションの ANTHROPIC_* 環境変数を引き継ぐ問題を修正
+🚀 macOS/Linuxでシェルコマンド中断後に終了が1〜2秒止まる挙動を改善
+📊 VSCodeの /usage に、キャッシュミス・long context・subagent・skill/plugin/MCP別の利用内訳を追加
+
+あとで見返せるように保存！
+Claude Code最新情報をフォロー！
+詳しい解説はプロフィールリンクから！
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #開発効率化 #エンジニア #プログラミング #VSCode #DeveloperTools #TechNews #AIツール #LLM #自動化 #ソフトウェア開発 #Git #MCP #アップデート
