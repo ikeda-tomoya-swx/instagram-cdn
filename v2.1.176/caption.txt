@@ -1,0 +1,20 @@
+🐯 Claude Code v2.1.176 アップデートまとめ！
+
+2026年6月12日リリース。
+今回は全22項目の改善・修正が入り、セッション表示、モデル制御、Remote Control、バックグラウンド実行まわりの安定性が強化されました。
+
+🌐 会話の言語に合わせてセッションタイトルを自動生成。language設定で固定も可能に
+
+🔒 availableModelsの制御を修正。環境変数や/fast経由で許可外モデルに切り替わる問題を防止
+
+🧩 Read/Edit/Writeツールのhook条件が改善。Edit(src/**)やRead(.env)などのパターンが正しく一致
+
+📋 SSH越しのtmux環境で/copyやマウス選択コピーがシステムクリップボードへ届かない問題を修正
+
+🖥️ Remote Controlやbackground sessionsの接続・復帰・通知まわりを多数改善し、運用時のつまずきを軽減
+
+あとで見返せるように保存してね
+Claude Code最新情報をフォローでチェック
+詳しくはプロフィールリンクから
+
+#ClaudeCode #Claude #Anthropic #AI #AIコーディング #生成AI #AI開発 #プログラミング #エンジニア #開発者 #DevTools #CodingAI #LLM #AIエージェント #自動化 #ソフトウェア開発 #TechNews #アップデート #開発効率化 #CodeAssistant
