@@ -1,0 +1,16 @@
+🐯 Claude Code v2.1.175 アップデートまとめ！
+
+2026年6月12日リリースの Claude Code v2.1.175 は、全1項目の小規模アップデート。
+今回は、組織やチームで利用モデルを管理するための制御がより厳密になりました。
+
+🔒 enforceAvailableModels 管理設定が追加
+🎛 availableModels の許可リストが Default モデルにも適用
+⚠️ Default が許可外モデルに解決される場合は、最初の許可モデルへ自動フォールバック
+🏢 ユーザー設定やプロジェクト設定で、管理された availableModels を広げられない仕様に
+✅ チーム運用でのモデル制限・ガバナンスを強化
+
+あとで見返せるように保存しておくと便利です。
+Claude Code の更新情報を追いたい方はフォローしてください。
+詳細や関連情報はプロフィールリンクからチェックできます。
+
+#ClaudeCode #Claude #Anthropic #AI #生成AI #AIコーディング #CodingAI #開発効率化 #エンジニア #プログラミング #ソフトウェア開発 #DevTools #開発ツール #LLM #AIエージェント #コード生成 #TechNews #アップデート情報 #Developer #Productivity
